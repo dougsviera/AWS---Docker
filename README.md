@@ -133,6 +133,7 @@ Subnet2 Criada e vincula a segunda instância criada na zona de disponibilidade 
 Vinculada a VPC (Atividade Docker) mais associação das duas subnets existentes e a um Internet Gatway para acesso à internet.
 
 ![Alt text](./images/imag8.jpg)
+
 Rotas vinculadas a Route Table, tendo um Gatway de Internet vinculado e um ip local.
 
 ### Network ACL
