@@ -106,6 +106,7 @@ Vpc criada para a divisão de sub-nets e disponibilidade de internet para ambas,
 ![Alt text](./images/imag2.jpg)
 
 Mapa Recursos
+
 ![Alt text](./images/imag3.jpg)
 
 Mapa da VPC sobre como está configurada, onde mostra as sub-nets dentro da VPC (InstaciaDocker1, InstanciaDocker2) que estão vinculados a Tabela de Rotas para o trafego de rede para recursos que está vinculada a uma Network ACL.
