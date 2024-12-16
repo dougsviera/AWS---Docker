@@ -118,11 +118,13 @@ IPV4 associado a VPC (10.0.0.0/24)
 
 ### Subnets
 InstanciaDocker1
+
 ![Alt text](./images/imag5.jpg)
 
 Subnet1 criada e vinculada a primeira instância criada na zona de disponibilidade us-east-1a com um CIDR (10.0.0.0/28), vinculada a Tabela de rotas para o trafego de rede para recursos e a VPC (Atividade Docker).
 
 InstanciaDocker2
+
 ![Alt text](./images/imag6.jpg)
 
 Subnet2 Criada e vincula a segunda instância criada na zona de disponibilidade us-east-1B com um CIDR (10.0.0.16/28), vinculada a Tabela de rotas juntamente a primeira subnet para o trafego de rede para recursos e a VPC (Atividade Docker).
